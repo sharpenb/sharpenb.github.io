@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/early-crop.png
 share-img: /assets/img/path.jpg
 gh-repo: 
 gh-badge: [star, fork, follow]
-tags: [Hierarchical Inference]
+tags: [Efficient ML]
 comment: false
 ---
 
