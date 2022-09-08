@@ -15,7 +15,7 @@ This page is about our paper
 
 [**Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification**](https://arxiv.org/pdf/2110.14012.pdf)
 
-by Maximilian Stadler*, Bertrand Charpentier*, Simon Geisler, Daniel Zügner and Stephan Günnemann  
+by Maximilian Stadler*, Bertrand Charpentier*, Simon Geisler, Daniel Zügner, and Stephan Günnemann  
 Published at the Neural Information Processing Systems (Neurips) 2021
 
 **Abstract**
