@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Winning the Lottery Ahead of Time: Efficient Early Network Pruning
-subtitle: ICML 2022
+title: Winning the Lottery Ahead of Time
+subtitle: Efficient Early Network Pruning - ICML 2022
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/early-crop.png
 share-img: /assets/img/path.jpg
