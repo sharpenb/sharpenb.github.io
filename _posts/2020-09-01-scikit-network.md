@@ -16,7 +16,7 @@ This page is about our paper
 
 [**Scikit-network: Graph Analysis in Python**](hhttps://www.jmlr.org/papers/volume21/20-412/20-412.pdfg)
 
-by Thomas Bonald, Nathan de Lara, Quentin Lutz, and Bertrand Charpentier  
+by Thomas Bonald, Nathan de Lara, Quentin Lutz and Bertrand Charpentier  
 Published at the Journal of Machine Learning Research (JMLR), 2020
 
 **Abstract**
