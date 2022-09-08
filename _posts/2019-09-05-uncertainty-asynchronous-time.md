@@ -15,7 +15,7 @@ This page is about our paper
 
 [**Uncertainty on Asynchronous Time Event Prediction**](https://papers.nips.cc/paper/2019/file/78efce208a5242729d222e7e6e3e565e-Paper.pdf)
 
-by Marin Bilos\*, Bertrand Charpentier\* and Stephan Günnemann  
+by Marin Bilos\*, Bertrand Charpentier\*, and Stephan Günnemann  
 Published at the Neural Information Processing Systems (Neurips) 2019, (Spotlight)
 
 **Abstract**
