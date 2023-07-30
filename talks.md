@@ -4,7 +4,7 @@ title: Talks
 ---
 
 - TBA - [Bayes In Grenoble](https://sites.google.com/view/bigseminar/) ([Statify](https://team.inria.fr/statify/), [INRIA](https://www.inria.fr/en)) - TBA
-- Uncertainty Estimation for Independent and Non-Independent Data - [IDA Machine Learning Seminars](https://www.ida.liu.se/research/machinelearning/seminars/MoreSeminars/SemVT2024.shtml) (Linköping University)- 21.02.2024 
+- Uncertainty Estimation for Independent and Non-Independent Data - [IDA Machine Learning Seminars](https://www.ida.liu.se/research/machinelearning/seminars/MoreSeminars/SemVT2024.shtml) (Linköping University) - 21.02.2024 
 - Differentiable DAG Learning - [French-German workshop](https://t2f7fbf68.emailsys1a.net/mailing/96/5035337/0/1cf03bf50f/index.html) - 14.06.2022: \[ [Slides]() \]
 - Natural Posterior Network - [Continental](https://www.continental.com/en/) - 30.08.2022
 - Differentiable DAG Learning - [Origins Data Science](https://www.origins-cluster.de/en/) (TUM) - 06-05-2022: \[ [Slides]() \]
