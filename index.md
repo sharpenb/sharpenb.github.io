@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Bertrand Charpentier
-subtitle: Ph.D. student in Machine Learning
+subtitle: Ph.D. student in Machine Learning, CSO at Pruna AI
 ---
 
 I pursue my Ph.D. in the [Data Analytics and Machine Learning (DAML)](https://www.in.tum.de/daml/startseite/) group at the Technical University of Munich (TUM), where I am supervised by [Stephan Günnemann](https://www.in.tum.de/daml/team/guennemann/).
