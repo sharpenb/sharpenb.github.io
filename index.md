@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Bertrand Charpentier
-subtitle: Cofounder & Chief Scientist at Pruna AI
+subtitle: Founder, President & Chief Scientist at Pruna AI
 ---
 
 I currenlty work on [Pruna AI](https://pruna.ai/) which is a startup on **efficient ML** closely collaborating with the DAML research group (TUM). During my academic and industry work in ML, I realized that money, time, hardware, and environmental costs are citical barriers to apply ML in the real world. With the vision of making any AI model **accessible for people** and **sustainable for the planet**, I gathered the best team of cofounders to create Pruna AI. Now, Pruna AI develops technology that makes AI models significantly faster, smaller, cheaper, and greener in one line of code.
