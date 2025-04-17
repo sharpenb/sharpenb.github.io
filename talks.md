@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+- Brekaing into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
+- Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
+- Green AI - Smashing your models with Pruna AI - [Stokcholm AI](https://www.stockholm.ai/) - 11.2024: \[ [Video](https://www.youtube.com/watch?v=Y7BxGsXPb6o) \]
+- Une IA plus intelligente, une empreinte carbone réduite - [Daphni](https://www.daphni.com/) - 09.2024: \[ [Recording](https://www.youtube.com/watch?v=gSokxWA9Ij4) \]
 - Uncertainty Estimation for Independent and Non-Independent Data - [TUM](https://www.cs.cit.tum.de/daml/startseite/) - 02.2024
 - Uncertainty Estimation for Independent and Non-Independent Data - [IDA Machine Learning Seminars](https://www.ida.liu.se/research/machinelearning/seminars/MoreSeminars/SemVT2024.shtml) (Linköping University) - 21.02.2024 
 - Differentiable DAG Learning - [French-German workshop](https://t2f7fbf68.emailsys1a.net/mailing/96/5035337/0/1cf03bf50f/index.html) - 14.06.2022: \[ [Slides]() \]
