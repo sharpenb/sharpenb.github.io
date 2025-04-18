@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-- Brekaing into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
+- Breaking into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
 - Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
 - Green AI - Smashing your models with Pruna AI - [Stokcholm AI](https://www.stockholm.ai/) - 11.2024: \[ [Video](https://www.youtube.com/watch?v=Y7BxGsXPb6o) \]
 - Une IA plus intelligente, une empreinte carbone réduite - [Daphni](https://www.daphni.com/) - 09.2024: \[ [Recording](https://www.youtube.com/watch?v=gSokxWA9Ij4) \]
