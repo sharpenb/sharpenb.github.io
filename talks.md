@@ -3,6 +3,7 @@ layout: page
 title: Talks
 ---
 
+- How to Make Deep Learning Models More Efficient? - [X|AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Video]() \]
 - Breaking into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
 - Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
 - How to Make Deep Learning Models More Efficient? - AI Seine Summit (Organized by [Huawei](https://www.huawei.com/eu/)) - 03.2025
