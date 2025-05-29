@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-- What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - \[ [Video](https://www.telecom-paris-alumni.fr/en/news/what-is-frugal-ai-3735) \]
+- What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - 05.2025 \[ [Video](https://www.telecom-paris-alumni.fr/en/news/what-is-frugal-ai-3735) \]
 - How to Make Deep Learning Models More Efficient? - [X|AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Video]() \]
 - Breaking into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
 - Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
