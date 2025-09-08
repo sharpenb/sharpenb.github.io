@@ -5,7 +5,7 @@ title: Talks
 
 - Building Efficient and Sustainable AI - [Temy](https://www.youtube.com/@temyco) - 06.2025 \[ [Video](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
 - What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - 05.2025 \[ [Recording](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
-- How to Make Deep Learning Models More Efficient? - [X|AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Recording]() \]
+- How to Make Deep Learning Models More Efficient? - [X-AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Recording]() \]
 - Breaking into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
 - Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
 - How to Make Deep Learning Models More Efficient? - AI Seine Summit (Organized by [Huawei](https://www.huawei.com/eu/)) - 03.2025
