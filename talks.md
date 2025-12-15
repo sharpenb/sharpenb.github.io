@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+- Optimize AI Energy - [Dot AI](https://www.dotai.io/) - 11.2025 \[ [Video](https://youtu.be/UldTRcPl0E8?si=0Z7x7qML2xmaAbz9) \]
+- How to make your AI models faster, cheaper, faster, greener? - [AI Engineer](https://www.ai.engineer/) - 09.2025 \[ [Video](https://www.youtube.com/watch?v=Hm3KOwiZGKQ) \]
 - Building Efficient and Sustainable AI - [Temy](https://www.youtube.com/@temyco) - 06.2025 \[ [Video](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
 - What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - 05.2025 \[ [Recording](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
 - How to Make Deep Learning Models More Efficient? - [X-AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Recording]() \]
