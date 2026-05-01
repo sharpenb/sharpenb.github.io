@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+- Toward Sustainable and Sovereign AI - [Institut Français](https://www.institutfrancais.de/de/muenchen#/) - 04.2026 \[ [Slides](https://ln5.sync.com/dl/b0f46e2f0#geqxvmgg-bzjc2pq5-jg6geenj-7ak2jip5) \]
+- What AI Model is State-Of-The-Art? - [AI Engineer](https://www.ai.engineer/) - 04.2026 \[ [Slides](https://ln5.sync.com/dl/890821dc0#rsh2jixs-ujhbfpiy-qg6apgd4-5ngypyc4) \]
 - Optimize AI Energy - [Dot AI](https://www.dotai.io/) - 11.2025 \[ [Video](https://youtu.be/UldTRcPl0E8?si=0Z7x7qML2xmaAbz9) \]
 - How to make your AI models faster, cheaper, faster, greener? - [AI Engineer](https://www.ai.engineer/) - 09.2025 \[ [Video](https://www.youtube.com/watch?v=Hm3KOwiZGKQ) \]
 - Building Efficient and Sustainable AI - [Temy](https://www.youtube.com/@temyco) - 06.2025 \[ [Video](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
