@@ -3,12 +3,13 @@ layout: page
 title: Talks
 ---
 
-- Toward Sustainable and Sovereign AI - [Institut Français](https://www.institutfrancais.de/de/muenchen#/) - 04.2026 \[ [Slides](https://ln5.sync.com/dl/b0f46e2f0#geqxvmgg-bzjc2pq5-jg6geenj-7ak2jip5) \]
-- What AI Model is State-Of-The-Art? - [AI Engineer](https://www.ai.engineer/) - 04.2026 \[ [Slides](https://ln5.sync.com/dl/890821dc0#rsh2jixs-ujhbfpiy-qg6apgd4-5ngypyc4) \]
-- Optimize AI Energy - [Dot AI](https://www.dotai.io/) - 11.2025 \[ [Video](https://youtu.be/UldTRcPl0E8?si=0Z7x7qML2xmaAbz9) \]
-- How to make your AI models faster, cheaper, faster, greener? - [AI Engineer](https://www.ai.engineer/) - 09.2025 \[ [Video](https://www.youtube.com/watch?v=Hm3KOwiZGKQ) \]
-- Building Efficient and Sustainable AI - [Temy](https://www.youtube.com/@temyco) - 06.2025 \[ [Video](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
-- What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - 05.2025 \[ [Recording](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
+- Series on AI Compression - [Coalition for Sustainable AI](https://www.sustainableaicoalition.org/) - 04.2026: \[ [Page](https://www.sustainableaicoalition.org/resilient-ai-challenge/) \]
+- Toward Sustainable and Sovereign AI - [Institut Français](https://www.institutfrancais.de/de/muenchen#/) - 04.2026: \[ [Slides](https://ln5.sync.com/dl/b0f46e2f0#geqxvmgg-bzjc2pq5-jg6geenj-7ak2jip5) \]
+- What AI Model is State-Of-The-Art? - [AI Engineer](https://www.ai.engineer/) - 04.2026: \[ [Recording](https://www.youtube.com/watch?v=hqHC6Z_lXyo) [Slides](https://ln5.sync.com/dl/890821dc0#rsh2jixs-ujhbfpiy-qg6apgd4-5ngypyc4) \]
+- Optimize AI Energy - [Dot AI](https://www.dotai.io/) - 11.2025: \[ [Video](https://youtu.be/UldTRcPl0E8?si=0Z7x7qML2xmaAbz9) \]
+- How to make your AI models faster, cheaper, faster, greener? - [AI Engineer](https://www.ai.engineer/) - 09.2025: \[ [Video](https://www.youtube.com/watch?v=Hm3KOwiZGKQ) \]
+- Building Efficient and Sustainable AI - [Temy](https://www.youtube.com/@temyco) - 06.2025: \[ [Video](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
+- What is frugal AI? - [Telecom Paris Alumni](https://www.telecom-paris-alumni.fr/en/news/the-replays) - 05.2025: \[ [Recording](https://www.youtube.com/watch?si=cpwNWP5SvCW7VI0s&v=CtAXCLuCECE&feature=youtu.be) \]
 - How to Make Deep Learning Models More Efficient? - [X-AI](https://ax.polytechnique.org/fr/group/x-intelligence-artificielle/102/calendar/x-ia-26-efficient-ai-smaller-better-faster-stronger/2025/04/29/2477) - 04.2025: \[ [Recording]() \]
 - Breaking into Research: Where Do You Begin? - [AI Nation](https://open.spotify.com/show/7uNRUfsKlcAYwuB9QVrayL) - 04.2025: \[ [Recording](https://open.spotify.com/episode/28jBsY50zK30d6nOGqkX1f) \]
 - Faire mieux avec moins: le défi des petits modèles d'IA - [Les dessous de l'IA](https://open.spotify.com/show/3VL82PYIpcBF1tALroA3ye) - 04.2025: \[ [Recording](https://open.spotify.com/episode/0iboxi8mjQpDWjK4nyO9Ge) \]
